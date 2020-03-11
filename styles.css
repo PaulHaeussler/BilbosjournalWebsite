@@ -1,0 +1,16 @@
+p.online {
+    color: green;
+}
+p.offline {
+    color: crimson;
+}
+
+th.align {
+    text-align: center;
+}
+
+td.align {
+    text-align: center;
+    vertical-align: middle;
+    horiz-align: center;
+}
